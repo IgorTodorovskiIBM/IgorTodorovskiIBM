@@ -1,16 +1,26 @@
-### Hi there 👋
+I work on the [z/OS Open Tools Project](https://github.com/ZOSOpenTools) where I port open source tools to z/OS. 
 
-<!--
-**IgorTodorovskiIBM/IgorTodorovskiIBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're interested in learning about open source on z/OS, visit my [blog](https://igortodorovskiibm.github.io/blog/).
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=IgorTodorovskiIBM&show_icons=true&theme=dark" alt="GitHub Activity">
+</div>
+
+-----
+
+### Recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Exploring ZOSLIB: An open source z/OS library for porting](https://igortodorovskiibm.github.io/blog/2024/02/12/zoslib-library/)
+- [AI on z/OS: LLaMa and LLaMa.cpp](https://igortodorovskiibm.github.io/blog/2023/08/22/llama-cpp/)
+<!-- BLOG-POST-LIST:END -->
+
+-----
+
+### Where to find me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/igor-todorovski-48712623"><img src="https://img.shields.io/badge/LinkedIn-007f00?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+</div>

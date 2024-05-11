@@ -11,6 +11,8 @@ If you're interested in learning about open source on z/OS, visit my [blog](http
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Vim on z/OS UNIX with Language Server Protocol (LSP) support]([https://igortodorovskiibm.github.io/blog/2024/03/12/tmux/](https://igortodorovskiibm.github.io/blog/2024/04/18/vim-autocomplete/))
+- [Porting Tmux to z/OS](https://igortodorovskiibm.github.io/blog/2024/03/12/tmux/)
 - [Exploring ZOSLIB: An open source z/OS library for porting](https://igortodorovskiibm.github.io/blog/2024/02/12/zoslib-library/)
 - [AI on z/OS: LLaMa and LLaMa.cpp](https://igortodorovskiibm.github.io/blog/2023/08/22/llama-cpp/)
 <!-- BLOG-POST-LIST:END -->

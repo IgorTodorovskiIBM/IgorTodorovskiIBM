@@ -1,4 +1,4 @@
-I work on the [z/OS Open Tools Project](https://github.com/ZOSOpenTools) where I port open source tools to z/OS. 
+I work on the [zopen community project](https://github.com/zopencommunity) where I port open source tools to z/OS. 
 
 If you're interested in learning about open source on z/OS, visit my [blog](https://igortodorovskiibm.github.io/blog/).
 

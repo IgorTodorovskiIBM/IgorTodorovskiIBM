@@ -7,6 +7,8 @@ If you're interested in learning about open source on z/OS, visit my [blog](http
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Porting to RAG: Building a Vector Search Engine for z/OS](https://igortodorovskiibm.github.io/blog/2026/04/20/z-vector-search/)
+- [I’ve Got a Crush on AI: Automating your z/OS Workflows](https://igortodorovskiibm.github.io/blog/2025/09/02/agentic-ai/)
 - [Faster builds on z/OS with ccache](https://igortodorovskiibm.github.io/blog/2025/07/11/speed-up-with-ccache/)
 - [Optimizing Git Performance on z/OS](https://igortodorovskiibm.github.io/blog/2025/03/19/git-perf/)
 - [Performance and Memory Insights: Tracing with Clang and Perfetto](https://igortodorovskiibm.github.io/blog/2024/09/19/tracing/)
